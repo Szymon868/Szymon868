@@ -3,59 +3,12 @@
 <html> 
      <head> 
              <meta charset="utf-8"> 
-             <title>Szymon Chyliński</title> 
+             <title>Poczta</title> 
      </head> 
-    <body> 
-		Szymon Chyliński
-		<p align="right"> <font color="red" size="7" face="Arial"> Szymon </font> </p> <br> 
-		<p align="right"> <font color="red" size="6" face="Arial"> Szymon </font> </p> <br> 
-		<p align="right"> <font color="red" size="5" face="Arial"> Szymon </font> </p> <br> 
-		<p align="right"> <font color="red" size="4" face="Arial"> Szymon </font> </p> <br> 
-		<p align="right"> <font color="red" size="3" face="Arial"> Szymon </font> </p> <br> 
-		<p align="right"> <font color="red" size="2" face="Arial"> Szymon </font> </p> <br> 
-		<p align="right"> <font color="red" size="1" face="Arial"> Szymon </font> </p> <br> 
-		<h6> Chyliński </h6><br>
-		<h5> Chyliński </h5><br>
-		<h4> Chyliński </h4><br>
-		<h3> Chyliński </h3><br>
-		<h2> Chyliński </h2><br>
-		<h1> Chyliński </h1><br> 
-		<p align="right"> <font color="yellow" size="3" face="Arial"> uśmiech :) </font> </p> <br>
-		<p align="right"> <font color="blue" size="3" face="Arial"> wesoły :D </font> </p> <br>
-		<p align="right"> <font color="purple" size="3" face="Arial"> Mrugający;) </font> </p> <br>
-		<p align="right"> <font color="green" size="3" face="Arial"> emotikon4 </font> </p> <br>
-		<p align="right"> <font color="pink" size="3" face="Arial"> emotikon5 </font> </p> <br>
-		<p align="right"> <font color="cyan" size="3" face="Arial"> emotikon6 </font> </p> <br>	
-		
-		<u>Gdańsk</u> <b>Szeroka</b<p align="right">80-188 Gdańsk Jana z Kolana 101/34</p> <br> <center> <p></p> </center><br> 
-		<u>H2SO4</u> <b></b<p align="right"></p> <br> <center> <p></p> </center><br> 
-		
-
-		<p align="center"> <font color="red" size="8" face="Arial"> ULUBIONY AKTOR:Zenek Martyniuk </font> </p> <br> 
-		<p align="center"> <font color="green" size="6" face="Arial"> Ulubiny zespuł muzyczny:White2115 </font> </p> <br>
-		<p align="center"> <font color="blue" size="5" face="Arial"> Data urodzenia: 30.luty.699 </font> </p> <br> 
-	
-		<FIELDSET> 
- 
-<HR SIZE=4 WIDTH=100% ALIGN=LEFT COLOR=red> 
-<H2><p align="center">Żart o Informatyku </H2> 
-<LEGEND></LEGEND> 
-Z kąd informatyk pobiera wode? <br> 
-Z e-kranu <br> 
-
-………………………………………………………… 
-<HR SIZE=4 WIDTH=100% ALIGN=LEFT COLOR=blue>
-</FIELDSET> 
- 		<FIELDSET> 
- 
-<HR SIZE=4 WIDTH=100% ALIGN=LEFT COLOR=yellow> 
-<H2><p align="center">Żart o Kawie </H2> 
-<LEGEND></LEGEND> 
-Czemu kawa ma opatrunek  <br> 
-bo dopiero była zaparzona. (-: <br> 
-
-………………………………………………………… 
-<HR SIZE=4 WIDTH=100% ALIGN=LEFT COLOR=purple>
-</FIELDSET>
+    <body>
+<A href ="mailto:chylinskiszymon23@gmail.com"><img src="mail.jpg" border=0 width=70 height=50>poczta 
+do Twojego nauczyciela</A> 
+<A HREF="index.html">wróć </A>
+<A HREF="przyklad2.html"> <IMG SRC="rysun.gif">tutaj jest link </A> 
     </body> 
-  </html> 
+  </html>
