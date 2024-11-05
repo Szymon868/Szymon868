@@ -1,61 +1,90 @@
-<!DOCTYPE html> 
-<html lang="pl-PL"> 
-<html> 
-     <head> 
-             <meta charset="utf-8"> 
-             <title>Szymon Chyliński</title> 
-     </head> 
-    <body> 
-		Szymon Chyliński
-		<p align="right"> <font color="red" size="7" face="Arial"> Szymon </font> </p> <br> 
-		<p align="right"> <font color="red" size="6" face="Arial"> Szymon </font> </p> <br> 
-		<p align="right"> <font color="red" size="5" face="Arial"> Szymon </font> </p> <br> 
-		<p align="right"> <font color="red" size="4" face="Arial"> Szymon </font> </p> <br> 
-		<p align="right"> <font color="red" size="3" face="Arial"> Szymon </font> </p> <br> 
-		<p align="right"> <font color="red" size="2" face="Arial"> Szymon </font> </p> <br> 
-		<p align="right"> <font color="red" size="1" face="Arial"> Szymon </font> </p> <br> 
-		<h6> Chyliński </h6><br>
-		<h5> Chyliński </h5><br>
-		<h4> Chyliński </h4><br>
-		<h3> Chyliński </h3><br>
-		<h2> Chyliński </h2><br>
-		<h1> Chyliński </h1><br> 
-		<p align="right"> <font color="yellow" size="3" face="Arial"> uśmiech :) </font> </p> <br>
-		<p align="right"> <font color="blue" size="3" face="Arial"> wesoły :D </font> </p> <br>
-		<p align="right"> <font color="purple" size="3" face="Arial"> Mrugający;) </font> </p> <br>
-		<p align="right"> <font color="green" size="3" face="Arial"> emotikon4 </font> </p> <br>
-		<p align="right"> <font color="pink" size="3" face="Arial"> emotikon5 </font> </p> <br>
-		<p align="right"> <font color="cyan" size="3" face="Arial"> emotikon6 </font> </p> <br>	
-		
-		<u>Gdańsk</u> <b>Szeroka</b<p align="right">80-188 Gdańsk Jana z Kolana 101/34</p> <br> <center> <p></p> </center><br> 
-		<u>H2SO4</u> <b></b<p align="right"></p> <br> <center> <p></p> </center><br> 
-		
+<!DOCTYPE html>
+<html lang="pl-PL">
+<html>
+<head>
+<form>
+<meta charset="utf-8">
+<title>FORMULARZ chyliński_1p_g1 </title>
+</head>
+<body bgcolor="#FFFF05">
+<center><h1> Formularz o uczniu</h1></center>
+<TABLE>
+<TR height="100">
+<TD width="500">
+<b>Imię</b> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+&nbsp
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<input name="imie" size="22">
+<br><br>
+<b>Nazwisko</b>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+&nbsp &nbsp &nbsp &nbsp <input name="drugie" size="22">
+<br><br>
+<b>email </b> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+&nbsp &nbsp &nbsp <input name="nazwisko" size="22">
+<br><br>
+<b>numer tel</b>&nbsp &nbsp<input name="login" size="22"><nobr>
+<br><br>
+<b>wiek</b>&nbsp &nbsp<input name="login" size="22"><nobr>
+<br>
+<br>
+</TD>
+<TD width="300" >
+<center><font size="5" color="red"><b>Jak oceniasz swoje umiejetnisci w  Programowani od 1 do 10</b></font></center><br>
+<center> <select>
+<option value="0">0</option>
+<option value="2.5">2.5</option>
+<option value="5">5</option>
+<option value="7.5">7,5</option>
+<option value="10">10 </option>
+</select> </center>
+</TD>
+<TD width="500">Dlaczego wybrałeś akurat naszą szkole?
+<br><br>
+<input type="checkbox" name="ciastko" value="k"> Znajomi
+<br><br>
+<input type="checkbox" name="ciastko" value="m"> Reklama 
+<br><br>
+<input type="checkbox" name="ciastko" value="inne"> INNE
+<br><br><br>
 
-		<p align="center"> <font color="red" size="8" face="Arial"> ULUBIONY AKTOR:Zenek Martyniuk </font> </p> <br> 
-		<p align="center"> <font color="green" size="6" face="Arial"> Ulubiny zespuł muzyczny:White2115 </font> </p> <br>
-		<p align="center"> <font color="blue" size="5" face="Arial"> Data urodzenia: 30.luty.699 </font> </p> <br> 
-	
-		<FIELDSET> 
- 
-<HR SIZE=4 WIDTH=100% ALIGN=LEFT COLOR=red> 
-<H2><p align="center">Żart o Informatyku </H2> 
-<LEGEND></LEGEND> 
-Z kąd informatyk pobiera wode? <br> 
-Z e-kranu <br> 
+</TD></TD>
+<TD width="500">Co podoba ci sie w naszej szkole?
+<br><br>
+<input type="checkbox" name="ciastko" value="k"> Fajni nauczyciele
+<br><br>
+<input type="checkbox" name="ciastko" value="m"> Atmosfera 
+<br><br>
+<input type="checkbox" name="ciastko" value="inne"> INNE
+<br><br><br>
+</TD></TD>
+<TD width="500">Jakimi językami sie posługujesz?
+<br><br>
+<input type="checkbox" name="ciastko" value="k"> PHYTON
+<br><br>
+<input type="checkbox" name="ciastko" value="m"> C++
+<br><br>
+<input type="checkbox" name="ciastko" value="inne"> INNE
+<br><br><br>
 
-………………………………………………………… 
-<HR SIZE=4 WIDTH=100% ALIGN=LEFT COLOR=blue>
-</FIELDSET> 
- 		<FIELDSET> 
- 
-<HR SIZE=4 WIDTH=100% ALIGN=LEFT COLOR=yellow> 
-<H2><p align="center">Żart o Kawie </H2> 
-<LEGEND></LEGEND> 
-Czemu kawa ma opatrunek  <br> 
-bo dopiero była zaparzona. (-: <br> 
+</TR>
+<TR height="200">
+<TD><nobr>Czy umiesz programować?</nobr>
+<br><br>
+<input type="radio" name="pyt3" value="tak"> Tak
+<br><br>
+<input type="radio" name="pyt3" value="nie"> Nie
+<br><br>
+</TR>
+<TR height="100">
 
-………………………………………………………… 
-<HR SIZE=4 WIDTH=100% ALIGN=LEFT COLOR=purple>
-</FIELDSET>
-    </body> 
-  </html> 
+
+<p>
+    <TD><button type="reset" style="height:80px; width:150px">zresetuj</button> </TD>
+</p>
+</form>
+</TD>
+<TD><button onclick="alert('WIADOMOŚĆ ZOSTAŁA WYSŁANA DZIEKUJEMY')" style="height:80px;width:300px">Wyślij</button></TD>
+</TR>
+</TABLE>
+</form>
+</body>
+</html>
